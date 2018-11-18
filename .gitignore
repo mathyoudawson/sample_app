@@ -44,6 +44,7 @@
 /.idea
 /.idea *
 .idea *
+.idea/*
 .idea/workspace.xml
 /public/system/*
 .rvmrc
